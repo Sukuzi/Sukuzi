@@ -39,4 +39,3 @@ I am a Python White hat programmer and I am dedicated to pentesting and ethical 
 ### Statistics
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukuzi&" alt="sukuzi" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sukuzi&show_icons=true&locale=en&count_private=true" alt="sukuzi" /></p>
-<p><img alig="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sukuzi&v=2&range=last_7_days&custom_title=This week:" alt="sukuzi"/></p>
