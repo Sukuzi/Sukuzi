@@ -1,4 +1,4 @@
-[Discord]:https://discordapp.com/users/930231271060283412
+[Discord]:https://discordapp.com/users/1012151725777489920
 <h1 align="center">Hi, I'm Sukuzi</h1>
 
 **Here is a small summary of what I do.**
@@ -15,7 +15,7 @@ I am a Python White hat programmer and I am dedicated to pentesting and ethical 
 ### Languages and Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> 
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vsc" width="40" height="40"/> 
 </p>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
