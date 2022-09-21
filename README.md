@@ -1,5 +1,5 @@
 [Discord]:https://discordapp.com/users/1012151725777489920
-<h1 align="center">Hi, I'm Sukuzi</h1>
+<h1 align="center">Hi, I'm Kiruah</h1>
 
 **Here is a small summary of what I do.**
 
